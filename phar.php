@@ -21,7 +21,7 @@ textdomain(PACKAGE);
 	<h3><?php echo _('使い方'); ?></h3>
 	<ol>
 		<li><?php echo _('もちろん、プラグインのコードそのものは書いてください　:D'); ?></li>
-		<li><?php echo _('正しい形（namespace)などのファイルやフォルダを用意してくださ'); ?></li>
+		<li><?php echo _('正しい形（namespace)などのファイルやフォルダを用意してください'); ?></li>
 		<li><?php echo _('zipで圧縮してください。 ZIPファイルのどこにでもファイルを置けますが, plugin.ymlとsrcフォルダとその中身は正しく入れてください。'); ?></li>
 		<li><?php echo _('それをアップロードしてください :)'); ?></li>
 	</ol>
